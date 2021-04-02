@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2021-04-02] [14:35:36]       25000              25000
